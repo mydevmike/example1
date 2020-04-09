@@ -356,9 +356,6 @@ body {
   .social-links{
     order:2;
   }
-  body{
-    background-color: red;
-  }
 }
 @media (max-width: 480px) {
   .button-text {
@@ -389,7 +386,5 @@ body {
   .footer-link:not(:last-child) {
     margin-right: 0;
   }
-  body{
-    background-color: rgb(178, 140, 214);
-  }
+
 }
